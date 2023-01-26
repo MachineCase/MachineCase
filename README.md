@@ -20,4 +20,4 @@
 
 
 # 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMachineCase&layout=compact)](https://github.com/MachineCase/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MachineCase&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
