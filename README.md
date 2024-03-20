@@ -1,10 +1,5 @@
 ### Olá! Eu sou o pxxxxx 🔥
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/02f3l1p3-r0m4n02/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@feliperomano_27022) 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_romano02/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MachineCase&show_icons=true&theme=tokyonight)
 
 #
