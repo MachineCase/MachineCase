@@ -4,7 +4,7 @@
 
 #
 
-### Tecnologias que uso no dia a dia:
+### Technologies I use daily:
 <div stile="display: inline_block"><br/>
    <img align="center" alt="OSX" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
    <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
