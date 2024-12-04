@@ -1,4 +1,4 @@
-### Olá! Eu sou o pxxxxx 🔥
+### Hello! I'm _ptrace 🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MachineCase&show_icons=true&theme=tokyonight)
 
